@@ -5,3 +5,6 @@
 # Extra stuff
 GitTogether-master/
 *.zip
+
+# MacOS stuff
+.DS_Store
